@@ -1,0 +1,62 @@
+@startu0l
+sprite $kotlin [48x48/16] {
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000ddddddddddddddddddddddddddddddddddddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhN000000
+00000ooooooooooooooooooooooooooooo+++++++++++++++//////////////////////////////////////////s00000000
+00000oooooooooooooooooooooooooooooo+++++++++++++/////////////////////////////////////////s0000000000
+00000oooooooooooooooooooooooooooooooo+++++++++/++//////////////////////////////////////s000000000000
+00000oooooooooooooooooooooooooooooooooo+++++++++/++//////////////////////////////////s00000000000000
+00000oooooooooooooooooooooooooooooooooo+++++++++++/++//////////////////////////////od000000000000000
+00000ooooooooooooooooooooooooooooooooo++++++++++++++/++//////////////////////////od00000000000000000
+00000ooooooooooooooooooooooooooooooo++++++++++++++++++/++//////////////////////od0000000000000000000
+00000ooooooooooooooooooooooooooooo++++++++++++++++++++++/++//////////////////odN00000000000000000000
+00000ooooooooooooooooooooooooooo++++++++++++++++++++++++++/++//////////////odN0000000000000000000000
+00000oooooooooooooooooooooooooo+++++++++++++++++++++++++++++/++//////////odN000000000000000000000000
+00000oooooooooooooooooooooooo+++++++++++++++++++++++++++++++++/++//////ohN00000000000000000000000000
+00000oooooooooooooooooooooo+++++++++++++++++++++++++++++++++++++/++//ohN0000000000000000000000000000
+00000oooooooooooooooooooo+++++++++++++++++++++++++++++++++++++++++/ohN000000000000000000000000000000
+00000ooooooooooooooooooo+++++++++++++++++++++++++++++++++++++++++ohN00000000000000000000000000000000
+00000ooooooooooooooooo++++++++++++++++++++++++++++++++++++++++++hN0000000000000000000000000000000000
+00000ooooooooooooooo++++++++++++++++++++++++++++++++++++++++++hN000000000000000000000000000000000000
+00000ooooooooooooo++++++++++++++++++++++++++++++++++++++++++yN00000000000000000000000000000000000000
+00000ooooooooooo++++++++++++++++++++++++++++++++++++++++++yN0000000000000000000000000000000000000000
+00000ooooooooo++++++++++++++++++++++++++++++++++++++++++yN000000000000000000000000000000000000000000
+00000ooooooo++++++++++++++++++++++++++++++++++++++++++yN00000000000000000000000000000000000000000000
+00000oooooo+++++++++++++++++++++++++++++++++++++++++yN0000000000000000000000000000000000000000000000
+00000oooo+++++++++++++++++++++++++++++++++++++++++yN000000000000000000000000000000000000000000000000
+00000oo++++++++++++++++++++++++++++++++++++++++++oh0000000000000000000000000000000000000000000000000
+00000++++++++++++++++++++++++++++++++++++++++++++++oh00000000000000000000000000000000000000000000000
+00000++++++++++++++++++++++++++++++++++++++++++++++++oh000000000000000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++++++++++++++++++++++ood0000000000000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++++++++++++++++++++++++ood00000000000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++++++++++++++++++++++++++osd000000000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++++++++++++++++++++++++++++osd0000000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++++o+++++++++++++++++++++++++osd00000000000000000000000000000000000
+00000+++++++++++++++++++++++++++++ooooooooooo+++++++++++++++++++osd000000000000000000000000000000000
+00000+++++++++++++++++++++++++++ooooooooooooooooooooo+++++++++++++osd0000000000000000000000000000000
+00000+++++++++++++++++++++++++oooooooooooooooooooooooooooooooo++++++os000000000000000000000000000000
+00000++++++++++++++++++++++ooooooooooooooooooooooooooooooooooooooooo+oos0000000000000000000000000000
+00000++++++++++++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooy00000000000000000000000000
+00000++++++++++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooy000000000000000000000000
+00000++++++++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooy0000000000000000000000
+00000++++++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooy00000000000000000000
+00000++++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooy000000000000000000
+00000++++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyN000000000000000
+00000++++++++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyN0000000000000
+00000++++++oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohN00000000000
+00000++++oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohN000000000
+00000++ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh00000000
+00000syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyssyssyssssssssssssssssssssssyN000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+}
+
+
+!define DEV_HT0L5(_alias) ENTITY(rectangle,black,ht0l5,_alias,DEV HT0L5)
+!define DEV_HT0L5(_alias, _label) ENTITY(rectangle,black,ht0l5,_label, _alias,DEV HT0L5)
+!define DEV_HT0L5(_alias, _label, _shape) ENTITY(_shape,black,ht0l5,_label, _alias,DEV HT0L5)
+!define DEV_HT0L5(_alias, _label, _shape, _color) ENTITY(_shape,_color,ht0l5,_label, _alias,DEV HT0L5)
+skinpara0 folderBackgroundColor<<DEV HT0L5>> White
+@endu0l
